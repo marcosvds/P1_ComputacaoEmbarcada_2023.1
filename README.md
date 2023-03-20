@@ -103,6 +103,12 @@ Os possíveis usuários deste controle remoto para jogos seriam pessoas que gost
   </li>
 </ul>
 
+<h3>Design</h3>
+  <p>O design do controle será pensado para proporcionar uma experiência imersiva ao usuário durante a jogabilidade. Ele terá formato ergonômico, para que o jogador possa segurá-lo confortavelmente durante longos períodos de tempo, sem sentir desconforto ou fadiga muscular.</p>
+  <p>A paleta de cores será definida de acordo com a temática do jogo e dos LEDs RGB que fornecerão feedback visual ao jogador. Os botões terão tamanho adequado e estarão dispostos de forma estratégica, facilitando o acesso e minimizando a possibilidade de pressionamento acidental.</p>
+  <p>Os joysticks analógicos serão de alta precisão e sensibilidade, permitindo movimentos precisos e fluídos. Os motores de vibração serão ajustados para fornecer uma experiência imersiva e realista, vibrando de acordo com as ações do jogo.</p>
+  <p>No geral, o design será moderno, atrativo e funcional, visando proporcionar uma experiência de jogo única e agradável ao usuário.</p>
+
 
 
 
