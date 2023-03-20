@@ -32,3 +32,14 @@ O controle remoto Bluetooth foi projetado para permitir que nós controlemos rem
   <li>Interface Bluetooth para comunicação com o PC</li>
   <li>Informação de controle pareado</li>
 </ul>
+
+<h3> Ideia: Controle Remoto para Jogos</h3>
+<p>
+Este projeto consiste na criação de um controle remoto para jogos em PC, utilizando o kit de desenvolvimento SAME70-XPLD e um módulo externo bluetooth HC-05. O objetivo é criar um dispositivo personalizado e específico para jogos, com botões para controle de alguns recursos de jogabilidade.
+</p>
+
+<p>
+O controle será desenvolvido em linguagem C, e deve ter no mínimo 4 entradas digitais e uma entrada analógica, para permitir uma ampla variedade de comandos. Além disso, ele deve fornecer feedback ao usuário através de ao menos duas saídas digitais, como luzes indicadoras ou vibração.
+</p>
+
+
