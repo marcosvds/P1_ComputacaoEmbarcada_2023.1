@@ -43,3 +43,32 @@ O controle será desenvolvido em linguagem C, e deve ter no mínimo 4 entradas d
 </p>
 
 
+<h3>Usuários</h3>
+<p>
+Os possíveis usuários deste controle remoto para jogos seriam pessoas que gostam de jogar no PC e desejam ter um controle personalizado para melhorar a experiência de jogo. Ele pode ser utilizado por jogadores casuais que desejam mais comodidade e precisão ao jogar jogos de corrida, esportes, luta, RPG, FPS e outros gêneros de jogos. Além disso, ele pode ser utilizado por jogadores mais experientes que procuram um controle com mais funcionalidades e personalização. O projeto é voltado tanto para pessoas que gostam de jogar sozinhas como para aquelas que jogam com amigos ou em competições online.
+</p>
+
+<!-- Jornada do usuário casual -->
+<h2>Jornada do usuário casual</h2>
+<p><strong>Perfil:</strong> João é um estudante universitário que gosta de jogar jogos de corrida no PC nas horas vagas. Ele sempre usou o teclado para jogar, mas tem dificuldade em controlar o carro e manter a velocidade com precisão. Ele gostaria de ter um controle mais intuitivo para melhorar sua experiência de jogo.</p>
+<ol>
+  <li>João pesquisa na internet sobre controles para jogos de PC e encontra o projeto de Controle Remoto para Jogos no GitHub.</li>
+  <li>Ele lê a descrição do projeto e percebe que é exatamente o que ele está procurando. João decide baixar os arquivos e seguir as instruções para montar o controle.</li>
+  <li>Ele segue as instruções de montagem e conexão do controle, utilizando o kit de desenvolvimento SAME70-XPLD e o módulo externo bluetooth HC-05.</li>
+  <li>João personaliza o design do controle para torná-lo mais ergonômico e adicionar cores e decalques que combinam com seus gostos pessoais.</li>
+  <li>Após conectar o controle ao seu PC via bluetooth, ele começa a jogar seu jogo de corrida favorito. João percebe que agora consegue controlar o carro com muito mais precisão e rapidez, melhorando sua pontuação no jogo.</li>
+  <li>Ele continua jogando com o controle remoto e experimenta outros jogos de corrida, assim como outros gêneros de jogos. João se diverte muito mais agora com seu novo controle remoto para jogos.</li>
+</ol>
+
+<!-- Jornada do usuário experiente -->
+<h2>Jornada do usuário experiente</h2>
+<p><strong>Perfil:</strong> Ana é uma jogadora experiente que joga jogos de tiro em primeira pessoa em competições online. Ela está procurando um controle personalizado que possa melhorar sua jogabilidade e lhe dar uma vantagem sobre seus oponentes.</p>
+<ol>
+  <li>Ana pesquisa na internet sobre controles personalizados para jogos de PC e encontra o projeto de Controle Remoto para Jogos no GitHub.</li>
+  <li>Ela lê a descrição do projeto e percebe que é exatamente o que ela está procurando. Ana baixa os arquivos e segue as instruções para montar o controle.</li>
+  <li>Ela utiliza seu conhecimento em programação para customizar o controle, adicionando novas funcionalidades e comandos que atendem às suas necessidades específicas de jogabilidade.</li>
+  <li>Após conectar o controle ao seu PC via bluetooth, Ana testa o controle em seu jogo de tiro favorito. Ela percebe imediatamente uma melhora significativa em sua jogabilidade, conseguindo movimentar seu personagem com mais precisão e rapidez.</li>
+  <li>Ana continua a jogar com o controle remoto e experimenta outros jogos de tiro e outros gêneros de jogos. Ela está muito satisfeita com o controle personalizado que criou e acredita que lhe dará uma vantagem sobre seus oponentes em competições online.</li>
+</ol>
+
+
