@@ -83,6 +83,30 @@ Os possíveis usuários deste controle remoto para jogos seriam pessoas que gost
   <li>Feedback visual através de LEDs RGB que mudam de cor de acordo com o status do jogo, como saúde do personagem, nível de munição, etc.</li>
 </ul>
 
+<h3>IN / OUT</h3>
+<ul>
+  <li>Movimentação nos eixos X e Y através de dois joysticks analógicos</li>
+  <li>Pressionamento de 4 botões digitais para a realização de ações diversas, como atirar, pular, etc.
+    <ul>
+      <li>4 botões digitais</li>
+    </ul>
+  </li>
+  <li>Vibração nos motores presentes nos joysticks, dando uma sensação de imersão ao usuário
+    <ul>
+      <li>2 motores de vibração</li>
+    </ul>
+  </li>
+  <li>Feedback visual através de LEDs RGB que mudam de cor de acordo com o status do jogo, como saúde do personagem, nível de munição, etc.
+    <ul>
+      <li>4 LEDs RGB</li>
+    </ul>
+  </li>
+</ul>
+
+
+
+
+
 
 
 
