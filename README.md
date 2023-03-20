@@ -49,7 +49,7 @@ Os possíveis usuários deste controle remoto para jogos seriam pessoas que gost
 </p>
 
 <!-- Jornada do usuário casual -->
-<h3>Jornada do usuário casual</h3>
+<h4>Jornada do usuário casual</h4>
 <p><strong>Perfil:</strong> João é um estudante universitário que gosta de jogar jogos de corrida no PC nas horas vagas. Ele sempre usou o teclado para jogar, mas tem dificuldade em controlar o carro e manter a velocidade com precisão. Ele gostaria de ter um controle mais intuitivo para melhorar sua experiência de jogo.</p>
 <ol>
   <li>João pesquisa na internet sobre controles para jogos de PC e encontra o projeto de Controle Remoto para Jogos no GitHub.</li>
@@ -61,7 +61,7 @@ Os possíveis usuários deste controle remoto para jogos seriam pessoas que gost
 </ol>
 
 <!-- Jornada do usuário experiente -->
-<h3>Jornada do usuário experiente</h3>
+<h4>Jornada do usuário experiente</h4>
 <p><strong>Perfil:</strong> Ana é uma jogadora experiente que joga jogos de tiro em primeira pessoa em competições online. Ela está procurando um controle personalizado que possa melhorar sua jogabilidade e lhe dar uma vantagem sobre seus oponentes.</p>
 <ol>
   <li>Ana pesquisa na internet sobre controles personalizados para jogos de PC e encontra o projeto de Controle Remoto para Jogos no GitHub.</li>
@@ -70,5 +70,21 @@ Os possíveis usuários deste controle remoto para jogos seriam pessoas que gost
   <li>Após conectar o controle ao seu PC via bluetooth, Ana testa o controle em seu jogo de tiro favorito. Ela percebe imediatamente uma melhora significativa em sua jogabilidade, conseguindo movimentar seu personagem com mais precisão e rapidez.</li>
   <li>Ana continua a jogar com o controle remoto e experimenta outros jogos de tiro e outros gêneros de jogos. Ela está muito satisfeita com o controle personalizado que criou e acredita que lhe dará uma vantagem sobre seus oponentes em competições online.</li>
 </ol>
+
+<h3>Comandos/ Feedbacks</h3>
+<p>Os comandos/operações possíveis do controle serão:</p>
+<ul>
+  <li>Movimentação nos eixos X e Y através de dois joysticks analógicos</li>
+  <li>Pressionamento de 4 botões digitais para a realização de ações diversas, como atirar, pular, etc.</li>
+</ul>
+<p>Os feedbacks que o controle irá fornecer ao usuário são:</p>
+<ul>
+  <li>Vibração nos motores presentes nos joysticks, dando uma sensação de imersão ao usuário</li>
+  <li>Feedback visual através de LEDs RGB que mudam de cor de acordo com o status do jogo, como saúde do personagem, nível de munição, etc.</li>
+</ul>
+
+
+
+
 
 
