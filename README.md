@@ -49,7 +49,7 @@ Os possíveis usuários deste controle remoto para jogos seriam pessoas que gost
 </p>
 
 <!-- Jornada do usuário casual -->
-<h2>Jornada do usuário casual</h2>
+<h3>Jornada do usuário casual</h3>
 <p><strong>Perfil:</strong> João é um estudante universitário que gosta de jogar jogos de corrida no PC nas horas vagas. Ele sempre usou o teclado para jogar, mas tem dificuldade em controlar o carro e manter a velocidade com precisão. Ele gostaria de ter um controle mais intuitivo para melhorar sua experiência de jogo.</p>
 <ol>
   <li>João pesquisa na internet sobre controles para jogos de PC e encontra o projeto de Controle Remoto para Jogos no GitHub.</li>
@@ -61,7 +61,7 @@ Os possíveis usuários deste controle remoto para jogos seriam pessoas que gost
 </ol>
 
 <!-- Jornada do usuário experiente -->
-<h2>Jornada do usuário experiente</h2>
+<h3>Jornada do usuário experiente</h3>
 <p><strong>Perfil:</strong> Ana é uma jogadora experiente que joga jogos de tiro em primeira pessoa em competições online. Ela está procurando um controle personalizado que possa melhorar sua jogabilidade e lhe dar uma vantagem sobre seus oponentes.</p>
 <ol>
   <li>Ana pesquisa na internet sobre controles personalizados para jogos de PC e encontra o projeto de Controle Remoto para Jogos no GitHub.</li>
